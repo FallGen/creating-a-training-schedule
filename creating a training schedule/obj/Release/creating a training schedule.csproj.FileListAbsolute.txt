@@ -1,0 +1,16 @@
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\bin\Release\creating a training schedule.exe.config
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\bin\Release\creating a training schedule.exe
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\bin\Release\creating a training schedule.pdb
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\obj\Release\creating a training schedule.csproj.AssemblyReference.cache
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\obj\Release\creating a training schedule.csproj.SuggestedBindingRedirects.cache
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\obj\Release\creating_a_training_schedule.Form1.resources
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\obj\Release\creating_a_training_schedule.Form2.resources
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\obj\Release\creating_a_training_schedule.Form3.resources
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\obj\Release\creating_a_training_schedule.Form4.resources
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\obj\Release\creating_a_training_schedule.Form5.resources
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\obj\Release\creating_a_training_schedule.Properties.Resources.resources
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\obj\Release\creating a training schedule.csproj.GenerateResource.cache
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\obj\Release\creating a training schedule.csproj.CoreCompileInputs.cache
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\obj\Release\creating a training schedule.exe
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\obj\Release\creating a training schedule.pdb
+C:\Users\n_332\Documents\GitHub\creating a training schedule\creating a training schedule\bin\Release\Resources\calendar_clock_schedule_icon-icons.com_51085.ico
